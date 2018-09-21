@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\bin\Debug\AreaAndPerimeterMo.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\bin\Debug\AreaAndPerimeterMo.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\bin\Debug\AreaAndPerimeterMo.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\obj\Debug\AreaAndPerimeterMo.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\obj\Debug\AreaAndPerimeterMo.frmAreaPerimeter.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\obj\Debug\AreaAndPerimeterMo.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\obj\Debug\AreaAndPerimeterMo.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\obj\Debug\AreaAndPerimeterMo.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\AreaAndPerimeterMo\AreaAndPerimeterMo\obj\Debug\AreaAndPerimeterMo.pdb

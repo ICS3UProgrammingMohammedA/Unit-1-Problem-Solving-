@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\bin\Debug\SoccerClubsMo.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\bin\Debug\SoccerClubsMo.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\bin\Debug\SoccerClubsMo.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\obj\Debug\SoccerClubsMo.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\obj\Debug\SoccerClubsMo.frmSoccerClubs.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\obj\Debug\SoccerClubsMo.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\obj\Debug\SoccerClubsMo.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\obj\Debug\SoccerClubsMo.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\SoccerClubsMo\SoccerClubsMo\SoccerClubsMo\obj\Debug\SoccerClubsMo.pdb
