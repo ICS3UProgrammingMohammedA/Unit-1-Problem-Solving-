@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\obj\Debug\PizzaCostMo.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\obj\Debug\PizzaCostMo.frmPizzaCost.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\obj\Debug\PizzaCostMo.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\obj\Debug\PizzaCostMo.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\bin\Debug\PizzaCostMo.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\bin\Debug\PizzaCostMo.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\bin\Debug\PizzaCostMo.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\obj\Debug\PizzaCostMo.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Alnajeh, Mohammed (s450524)\Unit 1 (Problem Solving)\PizzaCostMo\PizzaCostMo\obj\Debug\PizzaCostMo.pdb

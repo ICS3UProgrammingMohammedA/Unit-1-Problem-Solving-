@@ -37,6 +37,7 @@ namespace AreaAndPerimeterMo
             double length;
             double width;
             double area;
+            double perimeter;
 
             // convert the string from each text box to a double
             length = double.Parse(txtLength.Text);
@@ -44,7 +45,16 @@ namespace AreaAndPerimeterMo
 
             //this is the formula to solve the equation
             area = length * width;
+           perimeter = length + length + width + width;
 
+            this.lblAreaAnswer.Text = Convert.ToString(area) + " squared meters";
+            this.lblPerimeterAnswer.Text = Convert.ToString(perimeter) + "meters";
+
+            //this is to show the hidden labels
+            this.lblArea.Show();
+            this.lblPerimeter.Show();
+            this.lblPerimeterAnswer.Show();
+            this.lblAreaAnswer.Show();
 
         }
 

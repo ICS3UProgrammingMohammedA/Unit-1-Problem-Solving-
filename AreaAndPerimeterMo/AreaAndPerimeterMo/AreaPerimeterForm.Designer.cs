@@ -143,18 +143,20 @@
             // lblPerimeterAnswer
             // 
             this.lblPerimeterAnswer.AutoSize = true;
-            this.lblPerimeterAnswer.Location = new System.Drawing.Point(245, 227);
+            this.lblPerimeterAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPerimeterAnswer.Location = new System.Drawing.Point(244, 216);
             this.lblPerimeterAnswer.Name = "lblPerimeterAnswer";
-            this.lblPerimeterAnswer.Size = new System.Drawing.Size(13, 13);
+            this.lblPerimeterAnswer.Size = new System.Drawing.Size(20, 24);
             this.lblPerimeterAnswer.TabIndex = 9;
             this.lblPerimeterAnswer.Text = "?";
             // 
             // lblAreaAnswer
             // 
             this.lblAreaAnswer.AutoSize = true;
-            this.lblAreaAnswer.Location = new System.Drawing.Point(245, 273);
+            this.lblAreaAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAreaAnswer.Location = new System.Drawing.Point(244, 262);
             this.lblAreaAnswer.Name = "lblAreaAnswer";
-            this.lblAreaAnswer.Size = new System.Drawing.Size(13, 13);
+            this.lblAreaAnswer.Size = new System.Drawing.Size(20, 24);
             this.lblAreaAnswer.TabIndex = 10;
             this.lblAreaAnswer.Text = "?";
             // 
